@@ -8,7 +8,7 @@ A car dealer needs information about cars, their parts, parts suppliers, custome
 A price of a car is formed by the total price of its parts.
 Using Code First approach create a database following the above description.
 
-![Image of Yaktocat](https://ibb.co/DW7jNyW)
+![alt text](https://ibb.co/DW7jNyW)
 
 Configure the following relations in your models:
 A car has many parts and one part can be placed in many cars
