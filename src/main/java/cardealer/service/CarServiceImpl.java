@@ -8,15 +8,12 @@ import cardealer.util.ValidationUtil;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import javax.transaction.Transactional;
 import javax.xml.bind.JAXBException;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
 @Service
-@Transactional
 public class CarServiceImpl implements CarService{
 
     private final CarRepository carRepository;
