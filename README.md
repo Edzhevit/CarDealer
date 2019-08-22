@@ -1,5 +1,5 @@
 # Car Dealer
-A car dealer needs information about cars, their parts, parts suppliers, customers and sales. 
+A car dealer holds information about cars, their parts, parts suppliers, customers and sales.
 * Cars have make, model, and travelled distance in kilometers.
 * Parts have name, price and quantity.
 * Part supplier have name and info whether he uses imported parts.
